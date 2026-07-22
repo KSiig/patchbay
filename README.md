@@ -6,7 +6,11 @@ Opinionated but configurable. Pluggable AI harnesses (Claude Code, OpenCode at l
 
 ## Status
 
-Early bootstrap. See the Linear project for the current milestone and in-flight issues.
+Early bootstrap. Tracking happens in the [Patchbay Linear project](https://linear.app/velatir/project/patchbay-0477c69f482e) — see there for the current milestone and in-flight issues.
+
+## Goal
+
+Patchbay is a tmux-overlay TUI for context-switching across AI sessions and tickets. It surfaces the live tmux sessions, worktrees, and tickets you're juggling, and lets you jump between them without losing state — pick up where another session left off, switch into the right worktree for a ticket, and resume.
 
 ## Building
 
