@@ -22,4 +22,4 @@ Not yet usable. Bootstrap only — see the M0 milestone for the first usable fea
 
 ## License
 
-TBD.
+[MIT](LICENSE) — see the [LICENSE](LICENSE) file for the full text.
