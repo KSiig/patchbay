@@ -6,7 +6,7 @@ Opinionated but configurable. Pluggable AI harnesses (Claude Code, OpenCode at l
 
 ## Status
 
-Early bootstrap. Tracking happens in the [Patchbay Linear project](https://linear.app/velatir/project/patchbay-0477c69f482e) — see there for the current milestone and in-flight issues.
+Early bootstrap. See the current milestone and in-flight issues in this repo's tracker.
 
 ## Goal
 
